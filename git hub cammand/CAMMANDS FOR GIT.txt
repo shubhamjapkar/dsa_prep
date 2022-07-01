@@ -11,3 +11,7 @@ git push -u origin main
 git add .
 git commit -m "first commit"
 git push -u origin main
+
+
+//back up cammand
+git checkout 13596ed41432c5744082a52e9303dcef9a989d80
